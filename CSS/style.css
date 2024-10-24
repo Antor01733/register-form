@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+
+font-family: "Montserrat", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: "Playfair Display", serif;
+	background-color:ghostwhite;
+	text-align:center;
+	padding: 15px;
+}
+
+.se{
+	width:100%;
+	
+}
+.form{
+	width: 600px;
+	margin:30px auto;
+	background-color:gainsboro;
+	padding:40px;
+	border-radius: 20px;
+	border:solid;
+}
+
+.group{
+	width:100%;
+	margin:10px 0px;
+
+}
+.group label{
+	display:block;
+font-size:20px;
+line height:40px;
+text-transform: uppercase;
+font-weight:700px;
+}
+.group input{
+	width:80%;
+	padding:10px;
+	border-radius: 10px;
+	border:solid ;
+}
+.group input:hover{
+	background-color:linen;
+}
+.send{
+	padding:10px 20px;
+}
+
+.btn{
+	padding:15px 25px;
+	background-color:white;
+	color:black;
+	border-radius:10px;
+}
+
+.btn:hover{
+	background-color:lightgreen;
+	color:black;
+	border-radius:10px;
+	border:solid;
+
+}
+
+	
+
+
